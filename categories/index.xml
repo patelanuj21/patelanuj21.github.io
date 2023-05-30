@@ -3,5 +3,29 @@
         <title>Categories - Category - Anuj Patel</title>
         <link>https://patelanuj21.github.io/categories/</link>
         <description>Categories - Category - Anuj Patel</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://patelanuj21.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 28 May 2023 21:44:38 -0700</lastBuildDate><atom:link href="https://patelanuj21.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Personal</title>
+    <link>https://patelanuj21.github.io/categories/personal/</link>
+    <pubDate>Sun, 28 May 2023 21:44:38 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/categories/personal/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Documentation</title>
+    <link>https://patelanuj21.github.io/categories/documentation/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HomeLab</title>
+    <link>https://patelanuj21.github.io/categories/homelab/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/categories/homelab/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

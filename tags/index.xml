@@ -3,5 +3,85 @@
         <title>Tags - Tag - Anuj Patel</title>
         <link>https://patelanuj21.github.io/tags/</link>
         <description>Tags - Tag - Anuj Patel</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://patelanuj21.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 28 May 2023 21:44:38 -0700</lastBuildDate><atom:link href="https://patelanuj21.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>About</title>
+    <link>https://patelanuj21.github.io/tags/about/</link>
+    <pubDate>Sun, 28 May 2023 21:44:38 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/about/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Anuj Patel</title>
+    <link>https://patelanuj21.github.io/tags/anuj-patel/</link>
+    <pubDate>Sun, 28 May 2023 21:44:38 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/anuj-patel/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Me</title>
+    <link>https://patelanuj21.github.io/tags/me/</link>
+    <pubDate>Sun, 28 May 2023 21:44:38 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/me/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>DevOps</title>
+    <link>https://patelanuj21.github.io/tags/devops/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/devops/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Home lab</title>
+    <link>https://patelanuj21.github.io/tags/home-lab/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/home-lab/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Homelab</title>
+    <link>https://patelanuj21.github.io/tags/homelab/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/homelab/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>IaC</title>
+    <link>https://patelanuj21.github.io/tags/iac/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/iac/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Infrastructure as Code</title>
+    <link>https://patelanuj21.github.io/tags/infrastructure-as-code/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/infrastructure-as-code/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Proxmox</title>
+    <link>https://patelanuj21.github.io/tags/proxmox/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/proxmox/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Terraform</title>
+    <link>https://patelanuj21.github.io/tags/terraform/</link>
+    <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
+    <author>Anuj Patel</author>
+    <guid>https://patelanuj21.github.io/tags/terraform/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
