@@ -2,10 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://patelanuj21.github.io/tags/about/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/about/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/anuj-patel/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://patelanuj21.github.io/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://patelanuj21.github.io/zh-cn/"
@@ -14,7 +11,7 @@
                     hreflang="en"
                     href="https://patelanuj21.github.io/"
                     /></url><url>
-            <loc>https://patelanuj21.github.io/categories/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://patelanuj21.github.io/categories/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://patelanuj21.github.io/zh-cn/categories/"
@@ -23,10 +20,18 @@
                     hreflang="en"
                     href="https://patelanuj21.github.io/categories/"
                     /></url><url>
-            <loc>https://patelanuj21.github.io/tags/me/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/categories/personal/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/posts/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://patelanuj21.github.io/tags/devops/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/categories/documentation/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/home-lab/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/homelab/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/categories/homelab/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/2023_05_29_terraform_packer/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/iac/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/infrastructure-as-code/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/packer/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/posts/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/proxmox/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/</loc><lastmod>2023-05-30T00:01:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://patelanuj21.github.io/zh-cn/tags/"
@@ -35,13 +40,10 @@
                     hreflang="en"
                     href="https://patelanuj21.github.io/tags/"
                     /></url><url>
-            <loc>https://patelanuj21.github.io/tags/devops/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/categories/documentation/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/home-lab/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/homelab/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/categories/homelab/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/about/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/about/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/anuj-patel/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/tags/me/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://patelanuj21.github.io/categories/personal/</loc><lastmod>2023-05-28T21:44:38-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://patelanuj21.github.io/2023_05_28_terraform_proxmox/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/iac/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/infrastructure-as-code/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://patelanuj21.github.io/tags/proxmox/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://patelanuj21.github.io/tags/terraform/</loc><lastmod>2023-05-28T21:43:20-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
