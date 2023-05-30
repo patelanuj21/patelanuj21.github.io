@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Home lab - Tag - Anuj Patel</title>
-        <link>https://patelanuj21.github.io/tags/home-lab/</link>
+        <link>https://anujpatel.net/tags/home-lab/</link>
         <description>Home lab - Tag - Anuj Patel</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 30 May 2023 00:01:38 -0700</lastBuildDate><atom:link href="https://patelanuj21.github.io/tags/home-lab/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 30 May 2023 00:01:38 -0700</lastBuildDate><atom:link href="https://anujpatel.net/tags/home-lab/" rel="self" type="application/rss+xml" /><item>
     <title>How to use Packer to create Proxmox images</title>
-    <link>https://patelanuj21.github.io/2023_05_29_terraform_packer/</link>
+    <link>https://anujpatel.net/2023_05_29_terraform_packer/</link>
     <pubDate>Tue, 30 May 2023 00:01:38 -0700</pubDate>
     <author>Anuj Patel</author>
-    <guid>https://patelanuj21.github.io/2023_05_29_terraform_packer/</guid>
+    <guid>https://anujpatel.net/2023_05_29_terraform_packer/</guid>
     <description><![CDATA[This article will walk you through the process of installing an setting up Packer to create Proxmox images using Cloud-Init]]></description>
 </item>
 <item>
     <title>How to use Terraform to deploy VMs in Proxmox</title>
-    <link>https://patelanuj21.github.io/2023_05_28_terraform_proxmox/</link>
+    <link>https://anujpatel.net/2023_05_28_terraform_proxmox/</link>
     <pubDate>Sun, 28 May 2023 21:43:20 -0700</pubDate>
     <author>Anuj Patel</author>
-    <guid>https://patelanuj21.github.io/2023_05_28_terraform_proxmox/</guid>
+    <guid>https://anujpatel.net/2023_05_28_terraform_proxmox/</guid>
     <description><![CDATA[Terraform on Proxmox ]]></description>
 </item>
 </channel>
